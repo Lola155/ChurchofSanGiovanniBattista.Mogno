@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Lola155.github.io/ChurchofSanGiovanniBattista.Mogno/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Lola155/ChurchofSanGiovanniBattista.Mogno project"
+        ]
+    },
+    "items": []
+}
